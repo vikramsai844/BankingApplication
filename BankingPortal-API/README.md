@@ -2,18 +2,18 @@
 
 ## Fork and Star ⭐ Github Repo For New Feature Update
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-UI%20Repo-blue.svg?style=flat-square)](https://github.com/vikramr844/BankingApplication/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-API%20Repo-blue.svg?style=flat-square)](https://github.com/vikramr844/BankingApplication/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-UI%20Repo-blue.svg?style=flat-square)](https://github.com/vikramsai844/BankingApplication/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-API%20Repo-blue.svg?style=flat-square)](https://github.com/vikramsai844/BankingApplication/)
 
 ## API Documentation
 
-- [https://github.com/abhi9720/BankingPortal-API/wiki](https://github.com/vikramr844/BankingApplication/wiki)
+- [https://github.com/vikramsai844/BankingPortal-API/wiki](https://github.com/vikramsai844/BankingApplication/wiki)
 
 ## Banking Portal UI
 
-- [https://github.com/abhi9720/BankingPortal-UI](https://github.com/vikramr844/BankingApplication/)
+- [https://github.com/vikramsai844/BankingPortal-UI](https://github.com/vikramsai844/BankingApplication/)
 
-![image](https://github.com/vikramr844/BankingApplication//assets/68281476/237694d9-6e8d-48e8-a7a2-982b9f8ca671)
+![image](https://github.com/vikramsai844/BankingApplication//assets/68281476/237694d9-6e8d-48e8-a7a2-982b9f8ca671)
 
 ***
 
@@ -54,7 +54,7 @@ The Banking Portal API provides a set of endpoints for managing user accounts, f
 
 ## Screenshots
 
-![project](https://github.com/abhi9720/BankingPortal-API/assets/68281476/45bca1e0-0af2-4d63-a8d0-efd7b67df6bf)
+![project](https://github.com/vikramsai844/BankingPortal-API/assets/68281476/45bca1e0-0af2-4d63-a8d0-efd7b67df6bf)
 
 ## Error Handling
 
